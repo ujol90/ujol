@@ -1,1 +1,2 @@
-I tanya is a good movie.gut
+I like tanya.git
+creating of soimethinf
